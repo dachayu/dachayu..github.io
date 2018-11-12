@@ -45,6 +45,7 @@ Table of Content:
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .list {
+  text-align: center;
   list-style: none;
   margin: 0px;
   padding: 0px; }
@@ -2988,6 +2989,7 @@ h6 {
   .f_title h3 {
     color: #fff;
     font-size: 18px;
+    text-align: center;
     font-weight: bold;
     font-family: "Heebo", sans-serif;
     margin-bottom: 0px;
@@ -2995,6 +2997,7 @@ h6 {
 
 .ab_widget p {
   font-size: 14px;
+  text-align: justify;
   line-height: 24px;
   font-family: "Roboto", sans-serif;
   color: #777777;
@@ -3058,6 +3061,7 @@ h6 {
 
 .social_widget p {
   font-size: 14px;
+  text-align: center;
   line-height: 24px;
   font-family: "Roboto", sans-serif;
   color: #777777;
