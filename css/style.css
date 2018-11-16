@@ -2997,7 +2997,7 @@ h6 {
 
 .ab_widget p {
   font-size: 14px;
-  text-align: justify;
+  text-align: center;
   line-height: 24px;
   font-family: "Roboto", sans-serif;
   color: #777777;
@@ -3005,7 +3005,7 @@ h6 {
   .ab_widget p a {
     color: #8490ff; }
   .ab_widget p + p {
-    margin-bottom: 0px; }
+    margin-bottom: 50px; }
 
 .news_widget {
   padding-left: 15px; }
@@ -3065,16 +3065,19 @@ h6 {
   line-height: 24px;
   font-family: "Roboto", sans-serif;
   color: #777777;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+  margin-left:50px; }
 .social_widget .list li {
   margin-right: 17px;
-  display: inline-block; }
+  display: inline-block;
+   }
   .social_widget .list li a {
     color: #cccccc;
     font-size: 14px;
     transition: all 300ms linear 0s; }
   .social_widget .list li:last-child {
-    margin-right: 0px; }
+    margin-right: 0px;
+    margin-bottom: 100px; }
   .social_widget .list li:hover a {
     color: #8490ff; }
 
@@ -3092,3 +3095,9 @@ h6 {
 .projects_text {
     text-align: center;
   }
+#proimg {
+  margin-left:80px;
+}
+#titlelink {
+  margin-left: 50px;
+}
